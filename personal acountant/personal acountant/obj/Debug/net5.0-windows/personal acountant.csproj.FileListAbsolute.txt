@@ -1,0 +1,41 @@
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\personal acountant.exe
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\personal acountant.deps.json
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\personal acountant.runtimeconfig.json
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\personal acountant.runtimeconfig.dev.json
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\personal acountant.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\ref\personal acountant.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\personal acountant.pdb
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\Krypton.Toolkit.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Docking.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Navigator.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Workspace.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Docking.pdb
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\bin\Debug\net5.0-windows\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal acountant.csproj.AssemblyReference.cache
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal_acountant.singup.resources
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal_acountant.Properties.Resources.resources
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal acountant.csproj.GenerateResource.cache
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal acountant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal acountant.AssemblyInfoInputs.cache
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal acountant.AssemblyInfo.cs
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal acountant.csproj.CoreCompileInputs.cache
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal acountant.csproj.CopyComplete
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal acountant.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\ref\personal acountant.dll
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal acountant.pdb
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal acountant.genruntimeconfig.cache
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal_acountant.Main.resources
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal_acountant.login.resources
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal_acountant.sendcode.resources
+C:\Users\misr computer\Desktop\personal acountant\personal acountant\obj\Debug\net5.0-windows\personal_acountant.Resetpassword.resources
